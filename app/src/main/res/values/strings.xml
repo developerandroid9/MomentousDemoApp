@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MomentousApp</string>
+    <string name="local_data">Local data</string>
+    <string name="host_data">Host Data</string>
+</resources>

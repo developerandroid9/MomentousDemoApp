@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="description_text_size">14sp</dimen>
+    <dimen name="margin_normal">10dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="item_image_height">90dp</dimen>
+    <dimen name="margin_standerd">8dp</dimen>
+    <dimen name="font_title">18sp</dimen>
+    <dimen name="dec_font">16sp</dimen>
+</resources>
