@@ -10,9 +10,9 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        android:background="?attr/colorPrimary"
         app:layout_constraintTop_toTopOf="parent"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
         app:theme="@style/ActionBarThemeOverlay" />
@@ -44,9 +44,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/margin_standerd"
         android:layout_marginTop="@dimen/margin_standerd"
+        android:textSize="@dimen/dec_font"
         android:layout_marginEnd="8dp"
         android:textColor="@color/gray"
-        android:textSize="@dimen/dec_font"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />

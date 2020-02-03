@@ -10,7 +10,6 @@
         <item name="android:windowNoTitle">true</item>
 
     </style>
-
     <style name="ActionBarThemeOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
         <item name="searchViewStyle">@style/Widget.AppCompat.Light.SearchView</item>
     </style>
